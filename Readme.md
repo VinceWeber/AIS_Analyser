@@ -29,6 +29,9 @@ You can show, by clicking "SHOW" the navigation values of the boats that you can
 For developping evironement, ther is a possibility to simulate AIS Flow by extending the main window to the right, click send, it'll broadcast to UDP 127.0.0.1:1024, some AIS values stored into the program.
 ![image](Screenshots/Main_form_offline.png)
 
+You can see below a full environement, when its runs, with the map plotter in the background.
+![image](Screenshots/Running2.png)
+
 
 # Installation
 
